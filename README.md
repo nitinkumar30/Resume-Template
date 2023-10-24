@@ -4,6 +4,8 @@
 
 This dynamic template offers a modern and professional look while allowing you to easily customize your resume with your own details and achievements. With interactive elements and a user-friendly interface, it's designed to make your resume not only informative but also engaging. Whether you're showcasing your skills to potential employers, clients, or connections, this template is the perfect tool to help you stand out in the digital landscape.
 
+<img width="960" alt="image" src="https://github.com/nitinkumar30/Resume-Template/assets/40369168/ca361864-dc0a-42a9-a31a-bce4f5ea7426">
+
 ## Contents
 * [**Setup the Code locally**](#setup-the-code-locally)
 * [**Customize the Resume**](#customize-the-resume)
