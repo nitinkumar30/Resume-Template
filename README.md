@@ -1,4 +1,4 @@
-![Resume Template](documentation/banner.jpg)
+# Resume-Template
 
 **I'm excited to introduce my latest creation: an online Resume Template powered by Python and Streamlit 📄**
 
