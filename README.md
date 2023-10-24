@@ -278,10 +278,10 @@ If you encounter any Bug or Issues, kindly raise them in the [Issues](https://gi
 
 If you would like to help us with Feature requests, kindly share them in the [Issues](https://github.com/nitinkumar30/Resume-Template/issues/new?template=feature_request.md) tab.
 
-Feel free to reach out to the creator, **Sandip Palit** on [Linkedin](https://www.linkedin.com/in/nitin30kumar/).
+Feel free to reach out to the creator, **Nitin Kumar** on [Linkedin](https://www.linkedin.com/in/nitin30kumar/).
 
 <br>
 
 ---
 
-**_Please share your valuable feedback in the [Discussion](https://github.com/nitinkumar30/Resume-Template/discussions) tab, and support this [Resume Template repository](https://github.com/SandipPalit/Resume-Template) by giving a 🌟_**.
+**_Please share your valuable feedback in the [Discussion](https://github.com/nitinkumar30/Resume-Template/discussions) tab, and support this [Resume Template repository](https://github.com/nitinkumar30/Resume-Template) by giving a 🌟_**.
