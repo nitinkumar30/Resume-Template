@@ -1,0 +1,9 @@
+{
+  "MAX_CERTIFICATES_COLUMNS" : 2,
+    "CERTIFICATES" : {
+        "Learning Python" : "https://drive.google.com/file/d/1iL8MqlKo6ImHbATbTEXYfddTZEoVOSeP/view?usp=sharing",
+        "Applied Data Science with Python" : "https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI2ODQiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl8yOTQ3NDA3XzE2MzQwNzI3NjEucG5nIiwidXNlcm5hbWUiOiJOaXRpbiBLdW1hciJ9",
+        "Automate the Boring Stuff with Python Programming" : "https://www.udemy.com/certificate/UC-c24fc050-54e6-444b-be40-21e10f1b9607/",
+        "Selenium Essential Training" : "https://drive.google.com/file/d/1BppLJPWgqBsw0tV0mZGgh3xubRLQG8DQ/view"
+    }
+}

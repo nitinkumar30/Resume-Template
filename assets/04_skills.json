@@ -1,0 +1,15 @@
+{
+  "MAX_SKILLS_COLUMNS" : 5,
+    "SKILLS" : [
+      "Python3",
+      "Selenium",
+      "API Automation Testing",
+      "CI/CD",
+      "Git",
+      "Data Science",
+      "Agile",
+      "Shell Scripting",
+      "Web Automation",
+      "GCP"
+    ]
+}

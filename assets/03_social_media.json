@@ -1,0 +1,10 @@
+{
+  "MAX_SOCIAL_MEDIA_COLUMNS" : 5,
+    "SOCIAL_MEDIA" : {
+        "Email" : "mailto:nitinkumar30.py@gmail.com",
+        "LinkedIn" : "https://www.linkedin.com/in/nitin30kumar/",
+        "GitHub" : "https://github.com/nitinkumar30",
+        "Twitter" : "https://twitter.com/nitinkumar30",
+        "Portfolio" : "https://nitinkr.me/"
+    }
+}

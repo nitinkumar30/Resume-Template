@@ -1,0 +1,20 @@
+{
+  "EDUCATION": [
+    {
+      "COURSE" : "Master of Computer Application",
+      "COLLEGE" : "Arka Jain University",
+      "DURATION" : "2021 - 2023",
+      "DETAILS" : [
+        "Completed Master of Computer Applications ( PG ) from Arka Jain University with Information Technology as a specialization for the duration of 2 years."
+      ]
+    },
+    {
+      "COURSE" : "Bachelor of Computer Application",
+      "COLLEGE" : "Arka Jain University",
+      "DURATION" : "2017 - 2020",
+      "DETAILS" : [
+        "Completed Bachelor of Computer Applications ( UG ) from Arka Jain University with Information Technology as a specialization for the duration of 3 years."
+      ]
+    }
+]
+}

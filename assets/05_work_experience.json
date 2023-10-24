@@ -1,0 +1,48 @@
+{
+  "WORK_EXPERIENCE": [
+    {
+      "DESIGNATION" : "System Engineer",
+      "COMPANY" : "Tata Consultancy Services",
+      "DURATION" : "Oct 2023 - Present",
+      "DETAILS" : [
+        "Successfully navigated the challenges of infancy, childhood, adolescence, and adulthood.",
+        "Developed exceptional multitasking skills, managing various responsibilities simultaneously, including work, family, and hobbies.",
+        "Continuously improved emotional intelligence through experiences such as laughter, tears, and meaningful connections with other humans.",
+        "Adept at adapting to changing environments and learning from both successes and failures."
+      ]
+    },
+    {
+      "DESIGNATION" : "Assistant System Engineer",
+      "COMPANY" : "Tata Consultancy Services",
+      "DURATION" : "Oct 2022 - Sept 2023",
+      "DETAILS" : [
+        "Investigated system component suitability for specified purposes and made recommendations regarding component use.",
+        "Developed system engineering, software engineering, system integration, and distributed system architectures.",
+        "Used manual and automated tools to analyze and predict system performance under different operating conditions.",
+        "Tested and verified software patches to restore or enhance system performance"
+      ]
+    },
+    {
+      "DESIGNATION" : "Programmer",
+      "COMPANY" : "Tata Consultancy Services",
+      "DURATION" : "Oct 2021 - Sept 2022",
+      "DETAILS" : [
+        "Identifying and selecting the automation test case",
+        "Applying various designs and documenting the automation test strategy",
+        "Participating in Selenium Environment Setup with an Integrated Development Environment (IDE)",
+        "Coming up with exact solutions for problems related to object identity and error handling"
+      ]
+    },
+    {
+      "DESIGNATION" : "IT Analyst",
+      "COMPANY" : "Tata Consultancy Services",
+      "DURATION" : "Oct 2020 - Sept 2021",
+      "DETAILS" : [
+        "Reviewed software requirements and prepared the relevant test scenarios.",
+        "Prepared reports on all aspects related to the software testing carried out and reported to the design team.",
+        "Prepared the status report of testing activities.",
+        "Analyzed test results on database impacts, errors or bugs, and usability"
+      ]
+    }
+    ]
+}
