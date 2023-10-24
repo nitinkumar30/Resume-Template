@@ -284,4 +284,4 @@ Feel free to reach out to the creator, **Sandip Palit** on [Linkedin](https://ww
 
 ---
 
-**_Please share your valuable feedback in the [Discussion](https://github.com/SandipPalit/Resume-Template/discussions) tab, and support this [Resume Template repository](https://github.com/SandipPalit/Resume-Template) by giving a 🌟_**.
+**_Please share your valuable feedback in the [Discussion](https://github.com/nitinkumar30/Resume-Template/discussions) tab, and support this [Resume Template repository](https://github.com/SandipPalit/Resume-Template) by giving a 🌟_**.
